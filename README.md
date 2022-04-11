@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiệp</h1>
-# <h3 align="center">A Computer Science Student from Vietnam.</h3>
+<h3 align="center">A Computer Science Student from Vietnam.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ttpho&label=Profile%20views&color=0e75b6&style=flat" alt="ttpho" /> </p>
 
