@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/akabelala/" target="blank"><img align="center" src="https://www.instagram.com/static/images/ico/favicon.svg/fc72dd4bfde8.svg" alt="nguen.dh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nguendh/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="nguendh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nguendh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nguendh" height="30" width="40" /></a>
 <a href="https://nguendh.github.io/">My Blog</a>
 </p>
 
